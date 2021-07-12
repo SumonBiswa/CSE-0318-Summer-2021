@@ -1,5 +1,5 @@
 # CSE-0318-Summer-2021
-This is a Software Engineering Lab Repositories
+This is a Software Engineering Lab Repository
 
 Name:    Md.Sherajuddawla Sumon Biswas
 
